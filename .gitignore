@@ -1,0 +1,18 @@
+#  Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
+
+#certificate files
+*.pem
+*.ppk
+
+#secrets for Terraform
+secrets.tf
+
+*Notes-*
